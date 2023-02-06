@@ -1,1 +1,1 @@
-# anticipation-calculator
+# Anticipation Calculator
